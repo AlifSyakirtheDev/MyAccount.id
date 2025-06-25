@@ -6,7 +6,7 @@
 
 ## 🙏 Sambutan dan Ucapan Terima Kasih
 
-Dengan penuh hormat, saya mengucapkan terima kasih kepada **Pak Reza Syafrizal, M.Kom.** pada mata kuliah **Pengenalan Pemrograman** yang telah membimbing dan memberikan ilmu selama satu semester ini.
+Dengan penuh hormat, saya mengucapkan terima kasih kepada **Pak Reza Syafrizal, M.Kom.** pada mata kuliah **Pengenalan Pemrograman** yang telah membimbing dan memberikan ilmu selama satu semester ini. <br>
 Website ini saya buat sebagai bentuk implementasi dari materi yang telah diajarkan, mulai dari dasar-dasar HTML dan CSS, struktur halaman web, hingga proses hosting melalui GitHub Pages. Semoga hasil kerja saya ini dapat dinilai sebagai wujud pemahaman dan usaha saya dalam mengikuti perkuliahan dengan sungguh-sungguh.
 
 ---
