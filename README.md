@@ -1,4 +1,6 @@
-# 🎮 Website Jual Beli Akun Game
+<p align="center">
+  # 🎮 Website Jual Beli Akun Game
+</p>
 
 <p align="center">
   <img src="latarblkng.png" alt="Banner Website" width="100%" />
