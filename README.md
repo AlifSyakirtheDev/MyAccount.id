@@ -1,10 +1,15 @@
+# 🎮 Website Jual Beli Akun Game
+
 <p align="center">
   <img src="latarblkng.png" alt="Banner Website" width="100%" />
 </p>
 
-# 🎮 Website Jual Beli Akun Game
+## 🙏 Sambutan dan Ucapan Terima Kasih
 
-Repositori ini dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) dalam mata kuliah **Pengenalan Pemrograman**. Proyek ini merupakan sebuah website sederhana yang dirancang untuk mempertemukan penjual dan pembeli akun game seperti Mobile Legends, Free Fire, Valorant, Genshin Impact, dan lainnya.
+Dengan penuh hormat, saya mengucapkan terima kasih kepada **Pak Reza Syafrizal, M.Kom.** pada mata kuliah **Pengenalan Pemrograman** yang telah membimbing dan memberikan ilmu selama satu semester ini.
+Website ini saya buat sebagai bentuk implementasi dari materi yang telah diajarkan, mulai dari dasar-dasar HTML dan CSS, struktur halaman web, hingga proses hosting melalui GitHub Pages. Semoga hasil kerja saya ini dapat dinilai sebagai wujud pemahaman dan usaha saya dalam mengikuti perkuliahan dengan sungguh-sungguh.
+
+---
 
 ## 📌 Deskripsi Singkat
 Website ini dibuat menggunakan **HTML dan CSS**, dengan tampilan responsif dan fitur navigasi antar halaman yang memudahkan pengguna. Terdapat halaman beranda, daftar akun game, halaman detail, serta sistem pembayaran yang dapat dipilih sesuai jenis game.
@@ -27,7 +32,7 @@ Website ini dibuat menggunakan **HTML dan CSS**, dengan tampilan responsif dan f
 ## 🚀 Cara Menjalankan
 
 1. Buka link GitHub Pages:  
-   👉 `https://alifsyakirthedev.github.io/MyAccount.id/`  
+   👉 [Lihat Website MyAcccount.id](https://alifsyakirthedev.github.io/MyAccount.id/)  
 
 2. Navigasi menu tersedia di bagian atas halaman.
 
