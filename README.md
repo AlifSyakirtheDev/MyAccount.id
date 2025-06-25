@@ -20,7 +20,7 @@ Website ini dibuat menggunakan **HTML dan CSS**, dengan tampilan responsif dan f
 - `game.html` – Menampilkan daftar akun game.
 - `akun.html` – Detail akun game pilihan.
 - `pembayaran.html` – Form pembayaran dengan opsi game.
-- `info.html` – Halaman informasi & promo.
+- `info.html` – Halaman informasi developer.
 - `login.html` – Halaman login.
 
 ## 🎨 Teknologi yang Digunakan
