@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Website Jual Beli Akun Game</h1>
+<h1 align="center">🎮 Website Jual Beli Akun Game | Ujian Akhir Semester - Pengenalaan Pemrograman</h1>
 
 <p align="center">
   <img src="latarblkng.png" alt="Banner Website" width="100%" />
