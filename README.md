@@ -67,7 +67,7 @@ Website ini dibuat menggunakan **HTML dan CSS**, dengan tampilan responsif dan f
 
 Untuk pertanyaan atau masukan:  
 📧 Email: alifsyakir022@gmail.com  
-📍 GitHub: github.com/AlifSyakirtheDev
+📍 GitHub: [github.com/AlifSyakirtheDev](https://github.com/AlifSyakirtheDev)
 
 ---
 
