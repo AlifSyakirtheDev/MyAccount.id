@@ -19,7 +19,7 @@ Website ini dibuat menggunakan **HTML dan CSS**, dengan tampilan responsif dan f
 - `index.html` – Halaman utama/beranda.
 - `game.html` – Menampilkan daftar akun game.
 - `akun.html` – Detail akun game pilihan.
-- `pembayaran.html` – Form pembayaran dengan opsi game.
+- `pembayaran.html` – Form pembayaran dengan opsi pilihan game.
 - `info.html` – Halaman informasi developer.
 - `login.html` – Halaman login.
 
