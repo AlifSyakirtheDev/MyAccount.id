@@ -1,5 +1,5 @@
 <p align="center">
-  # 🎮 Website Jual Beli Akun Game
+  ## 🎮 Website Jual Beli Akun Game
 </p>
 
 <p align="center">
