@@ -7,7 +7,8 @@
 ## 🙏 Sambutan dan Ucapan Terima Kasih
 
 Dengan penuh hormat, saya mengucapkan terima kasih kepada **Pak Reza Syafrizal, M.Kom.** pada mata kuliah **Pengenalan Pemrograman** yang telah membimbing dan memberikan ilmu selama satu semester ini. <br>
-Website ini dibuat sebagai bagian dari tugas Ujian Akhir Semester (UAS) pada mata kuliah Pengenalan Pemrograman. Proyek ini bertujuan untuk mengaplikasikan materi yang telah dipelajari, seperti penggunaan struktur dasar HTML, pemanfaatan CSS untuk tampilan antarmuka, serta proses hosting menggunakan GitHub Pages. Harapannya, tugas ini dapat mencerminkan pemahaman saya terhadap konsep dasar pemrograman web yang telah diajarkan selama satu semester penuh. <br>
+Website ini dibuat sebagai bagian dari tugas Ujian Akhir Semester (UAS) pada mata kuliah Pengenalan Pemrograman. Proyek ini bertujuan untuk mengaplikasikan materi yang telah dipelajari, seperti penggunaan struktur dasar HTML, pemanfaatan CSS untuk tampilan antarmuka, serta proses hosting menggunakan GitHub Pages. Harapannya, tugas ini dapat mencerminkan pemahaman saya terhadap konsep dasar pemrograman web yang telah diajarkan selama satu semester penuh.
+
 ---
 
 ## 📌 Deskripsi Singkat
